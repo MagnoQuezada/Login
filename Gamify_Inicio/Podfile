@@ -1,0 +1,6 @@
+target 'Gamify_Inicio' do
+
+pod 'Firebase'
+pod 'Firebase/Auth'
+
+end
